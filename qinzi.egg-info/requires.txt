@@ -1,0 +1,10 @@
+pyramid
+pyramid_debugtoolbar
+waitress
+Chameleon
+pyramid_chameleon
+fanstatic
+colander
+deform
+pyramid_deform
+sqlalchemy

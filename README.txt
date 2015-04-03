@@ -1,0 +1,18 @@
+* 技术基础
+  | web framework     | pyramid    |
+  | data persistence  | sqlalchemy |
+  | template engine   | chameleon  |
+  | form management   | deform     |
+  | static management | fanstatic  |
+  | frontend          | bootstrap  | 
+
+* 计划
+** DONE 读完 chameleon 文档
+   CLOSED: [2015-04-01 三 14:58]
+** DONE 读完 deform 的文档
+   CLOSED: [2015-04-02 四 14:02]
+** DONE 读完 colander 的文档
+   CLOSED: [2015-04-02 四 18:48]
+** DONE 读完 fanstatic 的文档
+   CLOSED: [2015-04-02 四 19:21]
+** TODO 自己设计写第一个 Demo
