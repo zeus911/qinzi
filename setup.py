@@ -44,5 +44,7 @@ setup(name='qinzi',
       entry_points="""\
       [paste.app_factory]
       main = qinzi:main
+      [fanstatic.libraries]
+      qinzi = qinzi.fanstatic:qinzi_library
       """,
       )

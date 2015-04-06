@@ -5,6 +5,7 @@ development.ini
 production.ini
 setup.py
 qinzi/__init__.py
+qinzi/fanstatic.py
 qinzi/tests.py
 qinzi/views.py
 qinzi.egg-info/PKG-INFO
@@ -37,6 +38,7 @@ qinzi/static/js/template.js
 qinzi/templates/about.html
 qinzi/templates/contact.html
 qinzi/templates/index.html
+qinzi/templates/layout.html
 qinzi/templates/sidebar-left.html
 qinzi/templates/sidebar-right.html
 qinzi/templates/signin.html
